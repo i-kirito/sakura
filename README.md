@@ -1,2 +1,2 @@
 # sakura
-manifest update
+update
